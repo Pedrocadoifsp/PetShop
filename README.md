@@ -13,4 +13,4 @@ principalmente de nível técnico - **IFSP**
 
 `npm run dev`
 
-Autor: **Denny Paulista Azevedo Filho**
+Autor: **Pedro Augusto Oliveira da Silva**
